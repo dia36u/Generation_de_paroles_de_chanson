@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # CSV files
-*.csv
+lyrics-data.csv
+artists-data.csv
 # db files
 *.db
